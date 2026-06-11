@@ -51,6 +51,8 @@ docs/         文档
 
 工程思维规范见 `.claude/skills/engineering-mindset/SKILL.md`。涉及任何非平凡实现任务时，启用 `/engineering-mindset` 以注入 Google 级 code review 标准、意图推断和"知道不做什么"的判断力。
 
+在用户未主动要求的情况下，不进行任何修改 Git 树的操作，比如 commit 或 push。
+
 ## 回答质量约束
 
 ### 事实与推论的分隔
